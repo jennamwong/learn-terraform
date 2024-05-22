@@ -7,7 +7,7 @@ terraform {
     organization = "hashicorp-jennawong"
 
     workspaces {
-      name = "learn-terraform"
+      name = "learn-terraform-audit"
     }
   }
 
